@@ -1,4 +1,4 @@
-## Hi, I'm Vadim
+## Hi, I'm Vadim 👋
 
 ### Tech skills
 
